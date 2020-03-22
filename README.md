@@ -1,4 +1,4 @@
-# Dog-Class-Classifier
+# Dog-Cat-Classifier
 A Dog-Cat Classifier built using CNN , Keras and Tensorflow Backend
 
 
